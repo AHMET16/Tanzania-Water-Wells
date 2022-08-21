@@ -37,8 +37,13 @@ The dataset used for this analysis can be found here. It contains a wealth of in
 functional - the waterpoint is operational and there are no repairs needed
 functional needs repair - the waterpoint is operational, but needs repairs
 non functional - the waterpoint is not operational
+
+
+
 ![function_dist](https://user-images.githubusercontent.com/5207341/185799948-b32d3a6f-ff28-4cf5-a19e-31db2b37bcc5.jpeg)
 We have the most functional wells at ~29,000, followed by non functional wells at ~21,000, and the minority class, functional needs repair at ~3,500.
+
+
 
 ## Modeling
 
