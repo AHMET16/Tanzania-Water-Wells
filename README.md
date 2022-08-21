@@ -53,7 +53,7 @@ We have the most functional wells at ~29,000, followed by non functional wells a
 ## Modeling
 
 
-##1-Logistic Regression
+1-Logistic Regression
 
 
 <img width="715" alt="Screen Shot 2022-08-21 at 12 02 28 PM" src="https://user-images.githubusercontent.com/5207341/185800081-cb83b073-afb3-4327-9cb5-1665c0bfe889.png">
