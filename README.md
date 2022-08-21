@@ -64,7 +64,11 @@ Our logistic regression model is improved to 75% accuracy over the dummy model. 
 2-K Nearest Neighbors Model
 
 
+
 <img width="641" alt="Screen Shot 2022-08-21 at 12 05 03 PM" src="https://user-images.githubusercontent.com/5207341/185800230-4c4d586e-9a68-4468-bb9a-638dff8ce978.png">
+
+
+
 The K Nearest Neighbors model outperformed the Logistic Regression model. Number of neighbors was hypertuned by running and GridSearch and optimal parameters were put into our pipe. Our K Nearest Neighbors model is not overfitting as the accuracy of training and test sets are 80.23% and 76.03%, respectively. The precision of the functional class is 77%, which is a huge improvement from our Logistic Regression model at 73%.
 
 3- Decision Tree Model
