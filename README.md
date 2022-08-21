@@ -41,6 +41,11 @@ non functional - the waterpoint is not operational
 
 
 ![function_dist](https://user-images.githubusercontent.com/5207341/185799948-b32d3a6f-ff28-4cf5-a19e-31db2b37bcc5.jpeg)
+
+
+
+
+
 We have the most functional wells at ~29,000, followed by non functional wells at ~21,000, and the minority class, functional needs repair at ~3,500.
 
 
