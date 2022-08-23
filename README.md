@@ -114,3 +114,11 @@ Random Forests was our top performing model, although XG Boost was not far behin
 
 Several of our models showed one of it's most important features to be quantity for the waterpoint. There are over 8,000 waterpoints that have enough water in them but are non functional. These are a high priority to address as well since there is water present. Wells with no fees are more likely to be non functional. Payment provides incentive and means to keep wells functional. The Government, District Council, and Fini Water all have a high rate of pump failure. Investigate why these installers have such a high rate of failure or use other installers.
 
+
+
+├── README.md                           <- The top-level README for reviewers of this project
+├── student.ipynb                       <- Narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf                    <- PDF version of project presentation
+├── data                                <- Both sourced externally and generated from code
+└── images                              <- Both sourced externally and generated from code
+└── code.                               <- Both sourced externally and generated from code
