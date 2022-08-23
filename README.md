@@ -7,8 +7,8 @@ Authors: Ahmet Karaoglan
 
 Tanzania is a developing country that struggles to get clean water to its population of 59 million people. According to WHO, 1 in 6 people in Tanzania lack access to safe drinking water and 29 million don't have access to improved sanitation. The focus of this project is to build a classification model to predict the functionality of waterpoints in Tanzania given data provided by Taarifa and the Tanzanian Ministry of Water. The model was built from a dataset containing information about the source of water and status of the waterpoint (functional, functional but needs repairs, and non functional) using an iterative approach and can be found here. The dataset contains 60,000 waterpoints in Tanzania and the following features will be used in our final model:
 
-amount_tsh - Total static head (amount water available to waterpoint)
-gps_height - Altitude of the well
+- amount_tsh - Total static head (amount water available to waterpoint)
+- gps_height - Altitude of the well
 installer - Organization that installed the well
 longitude - GPS coordinate
 latitude - GPS coordinate
