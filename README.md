@@ -100,7 +100,7 @@ Make repairs to functional wells in Kignma to maximize cost effectivess
 
 Prioritize non functional and functional wells which need repair and have enough water
 
-##Payment
+## Payment
 
 Payment provides incentive and means to keep ells functional
 
