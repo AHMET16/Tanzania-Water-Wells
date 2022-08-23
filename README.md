@@ -9,21 +9,21 @@ Tanzania is a developing country that struggles to get clean water to its popula
 
 - amount_tsh - Total static head (amount water available to waterpoint)
 - gps_height - Altitude of the well
-installer - Organization that installed the well
-longitude - GPS coordinate
-latitude - GPS coordinate
-basin - Geographic water basin
-region - Geographic location
-population - Population around the well
-recorded_by - Group entering this row of data
-construction_year - Year the waterpoint was constructed
-extraction_type_class - The kind of extraction the waterpoint uses
-management - How the waterpoint is managed
-payment_type - What the water costs
-water_quality - The quality of the water
-quantity - The quantity of water
-source_type - The source of the water
-waterpoint_type - The kind of waterpoint
+- installer - Organization that installed the well
+- longitude - GPS coordinate
+- latitude - GPS coordinate
+- basin - Geographic water basin
+- region - Geographic location
+- population - Population around the well
+- recorded_by - Group entering this row of data
+- construction_year - Year the waterpoint was constructed
+- extraction_type_class - The kind of extraction the waterpoint uses
+- management - How the waterpoint is managed
+- payment_type - What the water costs
+- water_quality - The quality of the water
+- quantity - The quantity of water
+- source_type - The source of the water
+- waterpoint_type - The kind of waterpoint
 The first sections focus on investigating, cleaning, wrangling, and reducing dimensionality for modeling. The next section contains 6 different classification models and evaluation of each, ultimately leading to us to select our best model for predicting waterpoint status based on the precision of the functional wells in the model. Finally, I will make recommendations to the Tanzanian Government and provide insight on predicting the status of waterpoints.
 
 Business Problem
