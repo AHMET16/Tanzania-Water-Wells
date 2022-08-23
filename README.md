@@ -116,9 +116,10 @@ Several of our models showed one of it's most important features to be quantity 
 
 
 
-├── README.md                           <- The top-level README for reviewers of this project
-├── student.ipynb                       <- Narrative documentation of analysis in Jupyter notebook
-├── presentation.pdf                    <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
-└── code.                               <- Both sourced externally and generated from code
+| README.MD        | The top-level README for reviewers of this project      |   |   |   |
+|------------------|---------------------------------------------------------|---|---|---|
+| Student.ipynb    | Narrative documentation of analysis in Jupyter notebook |   |   |   |
+| presentation.pdf | Both sourced externally and generated from code         |   |   |   |
+| data             | Both sourced externally and generated from code         |   |   |   |
+| images           | Both sourced externally and generated from code         |   |   |   |
+| code.            | Both sourced externally and generated from code         |   |   |   |
