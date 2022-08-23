@@ -34,9 +34,9 @@ The Tanzanian government has a severe water crisis on their hands as a result of
 
 The dataset used for this analysis can be found here. It contains a wealth of information about waterpoints in Tanzania and the status of their operation. The target variable has 3 different options for it's status:
 
-functional - the waterpoint is operational and there are no repairs needed
-functional needs repair - the waterpoint is operational, but needs repairs
-non functional - the waterpoint is not operational
+- functional - the waterpoint is operational and there are no repairs needed
+- functional needs repair - the waterpoint is operational, but needs repairs
+- non functional - the waterpoint is not operational
 
 
 
